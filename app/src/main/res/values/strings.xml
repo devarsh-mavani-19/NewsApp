@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_bottom_nav">BottomNavAct</string>
+    <string name="title_home">Feed</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Chart</string>
+</resources>
